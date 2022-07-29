@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://anotepad.com/',
+			link: 'http://jira.core.ufanet.ru/secure/RapidBoard.jspa?rapidView=1&view=detail&selectedIssue=NET-23',
 		},
 		{
 			id: '4',
